@@ -495,4 +495,4 @@ fails if the entry is missing or names a different Linkwarden version.
 
 ## License
 
-[GPL-3.0](LICENSE)
+[Apache License 2.0](LICENSE)
