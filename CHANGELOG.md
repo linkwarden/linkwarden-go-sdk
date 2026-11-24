@@ -30,6 +30,15 @@ How to write an entry:
 
 🧪 Tested against Linkwarden: v2.17.0
 
+## [1.1.1] - 2026-11-24
+
+🧪 Tested against Linkwarden: v2.17.0
+
+### 🔄 Changed
+
+- The SDK is now licensed under the Apache License 2.0 instead of GPL-3.0. Programs that use it
+  no longer have to be released under the GPL. The code is unchanged.
+
 ## [1.1.0] - 2026-11-11
 
 🧪 Tested against Linkwarden: v2.17.0
@@ -89,7 +98,8 @@ How to write an entry:
   `IsConflict` helpers.
 - Doc comments on every exported method and type.
 
-[unreleased]: https://github.com/CerealKiller97/linkwarden-go-sdk/compare/v1.1.0...HEAD
+[unreleased]: https://github.com/CerealKiller97/linkwarden-go-sdk/compare/v1.1.1...HEAD
+[1.1.1]: https://github.com/CerealKiller97/linkwarden-go-sdk/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/CerealKiller97/linkwarden-go-sdk/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/CerealKiller97/linkwarden-go-sdk/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/CerealKiller97/linkwarden-go-sdk/releases/tag/v1.0.0
